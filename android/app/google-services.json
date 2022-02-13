@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "967922879403",
+    "project_id": "voicemarket-app",
+    "storage_bucket": "voicemarket-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967922879403:android:d55f4bd748f5e9311620ee",
+        "android_client_info": {
+          "package_name": "com.example.voice_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967922879403-602mfoclmvb4ubkm3l7v4dennju20bi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.voice_market",
+            "certificate_hash": "53acf6129e5aee017513bf6d106f764f94832205"
+          }
+        },
+        {
+          "client_id": "967922879403-lkoh99tkkgostg3h8s0oskvd2b2naafc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxC2x8yIPu8CCq4nl96AWfHzekxgILEEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967922879403-lkoh99tkkgostg3h8s0oskvd2b2naafc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
